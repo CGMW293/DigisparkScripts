@@ -1,1 +1,1 @@
-Downloads and sets a powershell script to run on startup. Uses the WinKey+X method instead of the WinKey+R to open powershell. This is for computers that do not allow the Run window to be opened.
+Downloads and runs powershell script. Uses the Start menu method (Enter+Control+Shift to run as administrator) instead of the WinKey+R to open powershell. This is for computers that do not allow the Run window to be opened.
